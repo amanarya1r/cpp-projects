@@ -1,4 +1,6 @@
+# ====================================
 # Ignore Visual Studio-specific files
+# ====================================
 .vs/
 *.suo
 *.user
@@ -10,15 +12,18 @@
 *.cache
 *.tmp
 
+# ==============================
 # Ignore build directories
+# ==============================
 Debug/
 Release/
 x64/
 x86/
 ARM/
 
+# ==============================
 # Ignore build artifacts
-*.exe
+# ==============================
 *.dll
 *.lib
 *.obj
@@ -30,18 +35,24 @@ ARM/
 *.iobj
 *.ipdb
 
+# ================================================
 # Ignore intermediate and compiler-generated files
+# ================================================
 ipch/
 *.pch
 *.tlog
 
+# ===============================
 # Ignore CMake-generated files
+# ===============================
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
 
+# ==============================
 # Ignore user settings
+# ==============================
 *.user
 *.vcxproj.user
 *.rsuser
