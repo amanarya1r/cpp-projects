@@ -11,6 +11,8 @@
 *.log
 *.cache
 *.tmp
+*.swp
+tempCodeRunner*
 
 # ==============================
 # Ignore build directories
