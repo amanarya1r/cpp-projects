@@ -7,3 +7,6 @@
 [submodule "Traffic_Rush"]
 	path = Traffic_Rush
 	url = git@github.com:amanarya1r/Traffic_Rush.git
+[submodule "Typing_Tutor"]
+	path = Typing_Tutor
+	url = git@github.com:amanarya1r/Typing_Tutor.git
