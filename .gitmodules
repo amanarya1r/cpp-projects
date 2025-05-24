@@ -1,0 +1,6 @@
+[submodule "Rotating_Cube"]
+	path = Rotating_Cube
+	url = git@github.com:amanarya1r/Rotating_Cube.git
+[submodule "Flappy_Bird"]
+	path = Flappy_Bird
+	url = git@github.com:amanarya1r/Flappy_Bird.git
