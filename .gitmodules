@@ -4,3 +4,6 @@
 [submodule "Flappy_Bird"]
 	path = Flappy_Bird
 	url = git@github.com:amanarya1r/Flappy_Bird.git
+[submodule "Traffic_Rush"]
+	path = Traffic_Rush
+	url = git@github.com:amanarya1r/Traffic_Rush.git
