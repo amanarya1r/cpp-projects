@@ -10,3 +10,6 @@
 [submodule "Typing_Tutor"]
 	path = Typing_Tutor
 	url = git@github.com:amanarya1r/Typing_Tutor.git
+[submodule "6502_Microprocessor_Emulator"]
+	path = 6502_Microprocessor_Emulator
+	url = git@github.com:amanarya1r/6502_Microprocessor_Emulator.git
