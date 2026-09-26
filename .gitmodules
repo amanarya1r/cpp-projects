@@ -13,3 +13,6 @@
 [submodule "6502_Microprocessor_Emulator"]
 	path = 6502_Microprocessor_Emulator
 	url = git@github.com:amanarya1r/6502_Microprocessor_Emulator.git
+[submodule "Sudoku_Solver_cpp"]
+	path = Sudoku_Solver_cpp
+	url = git@github.com:amanarya1r/Sudoku_Solver_cpp.git
